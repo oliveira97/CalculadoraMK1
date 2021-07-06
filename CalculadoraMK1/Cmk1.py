@@ -3,7 +3,7 @@ print('-=-'*20)
 print('Seja bem vindo(a) ao meu projeto de calculadora simples :)')
 print('-=-'*20)
 nome = input('Qual é seu nome? ')
-print('Seja bem vindo(a) ao meu projeto {} :)'.format(nome))
+print('Seja bem vindo(a) a minha calculadora {} :)'.format(nome))
 
 escolha = input('Digite: \n "1" para adição, \n "2" multiplicação, \n "3" subtração,'
 ' \n "4" divisão ou \n "5" sair do programa: \n')
