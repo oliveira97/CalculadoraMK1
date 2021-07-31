@@ -6,7 +6,7 @@ nome = input('Qual é seu nome? ')
 print('Seja bem vindo(a) a minha calculadora {} :)'.format(nome))
 
 escolha = input('Digite: \n "1" para adição, \n "2" multiplicação, \n "3" subtração,'
-    ' \n "4" divisão ou \n "5" sair do programa: \n')
+    ' \n "4" divisão ou \n "5" sair do programa: ')
 if escolha == '1':
     a1 = float(input('Digite o primeiro número da adição: '))
     a2 = float(input('Digite o segundo numero por favor: '))
